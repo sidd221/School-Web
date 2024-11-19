@@ -1,1 +1,2 @@
 Our sample school website, crafted with HTML, CSS, and JavaScript, offers an engaging user experience. It highlights essential information, features intuitive navigation, responsive design, and vibrant visuals, ensuring easy access for students, parents, and educators alike. A perfect blend of functionality and aesthetics, making school information accessible and appealing. 📚✨
+Wbsite is live at:https://sidd221.github.io/School-Web/
